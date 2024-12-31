@@ -10,12 +10,49 @@ package gitlab.project;
  * @author Kimo Store
  */
 public class GitLabProject {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void showData(){
+        System.out.println("Hello from showData()");
     }
+
+    public static void main(String[] args) {
+<<<<<<< Updated upstream
+        // TODO code application logic here
+        
+        
+        
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+=======
+       
+        showData();
+>>>>>>> Stashed changes
+        
+    }
+    
+    public void imJoeFunction(){
+            
+        }
     
 }
