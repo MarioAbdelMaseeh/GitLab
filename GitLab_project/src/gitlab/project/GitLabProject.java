@@ -10,11 +10,12 @@ package gitlab.project;
  * @author Kimo Store
  */
 public class GitLabProject {
+    public static void showData(){
+        System.out.println("Hello from showData()");
+    }
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
+<<<<<<< Updated upstream
         // TODO code application logic here
         //
         //ANOTHER BRANCH
@@ -58,6 +59,10 @@ public class GitLabProject {
         
         
         
+=======
+       
+        showData();
+>>>>>>> Stashed changes
         
     }
     
