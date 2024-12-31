@@ -15,7 +15,6 @@ public class GitLabProject {
     }
 
     public static void main(String[] args) {
-<<<<<<< Updated upstream
         // TODO code application logic here
         //
         //ANOTHER BRANCH
@@ -57,12 +56,9 @@ public class GitLabProject {
         
         
         
-        
-        
-=======
+     
        
         showData();
->>>>>>> Stashed changes
         
     }
     
